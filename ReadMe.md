@@ -40,13 +40,7 @@ Projekt umożliwia planowanie obserwacji satelitów krążących wokół Ziemi p
 
 3. **Instalacja zależności:**
 
-   Jeśli repozytorium zawiera plik `requirements.txt`:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   Jeśli nie, upewnij się, że masz zainstalowane następujące pakiety:
+   Upewnij się, że masz zainstalowane następujące pakiety:
    - tkinter
    - skyfield
    - pytz
