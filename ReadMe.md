@@ -127,6 +127,7 @@ Plik JSON zawiera następujące pola:
 ├── JsonFileViewer.py         # Podgląd i obsługa plików JSON
 ├── UniquePriorityPicker.py   # Przypisywanie unikalnych priorytetów
 ├── README.md                 # Niniejsza dokumentacja
+├── Sprawozdanie.pdf          # Szczegółowa dokumentacja
 ```
 
 ## Wkład i rozwój projektu
